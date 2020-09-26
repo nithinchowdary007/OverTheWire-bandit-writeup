@@ -1,1 +1,11 @@
+level8
+----------
+ssh bandit8@bandit.labs.overthewire.org -p2220
 
+level8 - level9
+----------------
+ls, cat, sort, sort data.txt | uniq -u (or) sort data.txt | uniq -c (or) sort, sort data.txt | uniq --group
+
+key-UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+exit
