@@ -1,0 +1,11 @@
+level11
+----------
+ssh bandit11@bandit.labs.overthewire.org -p2220
+
+level11 - level12
+---------------------
+ls, cat, tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh'
+
+key- 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+exit
