@@ -1,0 +1,11 @@
+level10
+---------
+ssh bandit10@bandit.labs.overthewire.org -p2220
+
+level10 - level11
+---------------------
+ls, cat, base64 -d data.txt 
+
+key-IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+exit
