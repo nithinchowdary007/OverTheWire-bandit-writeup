@@ -1,0 +1,11 @@
+level 19
+-----------
+ssh bandit19@bandit.labs.overthewire.org -p2220
+
+level19 - level20
+---------------------
+ls, ./bandit20-do, ./bandit20-do ls /etc/bandit_pass, ./bandit20-do cat /etc/bandit_pass/bandit20
+
+key-GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+exit
