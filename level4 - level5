@@ -1,1 +1,12 @@
+level4
+---------- 
+ssh bandit4@bandit.labs.overthewire.org -p2220
+
+level4 - level5
+----------------
+ls, cd, ls, cat ./-file* (or) cat ./-*, cat
+
+key-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+exit
 
