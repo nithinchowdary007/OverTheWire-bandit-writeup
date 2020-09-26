@@ -1,1 +1,11 @@
+level1 
+--------------
+ssh bandit1@bandit.labs.overthewire.org -p2220
 
+level1 - level2
+-----------------
+ls, cat ./
+
+key- CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+exit
