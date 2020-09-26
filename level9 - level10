@@ -1,1 +1,11 @@
+level9
+---------
+ssh bandit9@bandit.labs.overthewire.org -p2220
 
+level9 - level10
+-----------------
+ls, cat, strings (or) strings data.txt | grep '='
+
+key- truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+exit
