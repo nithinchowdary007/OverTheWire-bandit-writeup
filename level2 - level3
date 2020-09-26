@@ -1,1 +1,11 @@
+level2
+--------------
+ssh bandit2@bandit.labs.overthewire.org -p2220
 
+level2 - level3
+----------------
+ls, cat spaces\ in\ this\ filename
+
+key- UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+exit
