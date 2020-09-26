@@ -1,1 +1,11 @@
+level3
+-----------
+ssh bandit3@bandit.labs.overthewire.org -p2220
 
+level3 - level4
+----------------
+ls -a, cd, cat
+
+key- pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+exit
