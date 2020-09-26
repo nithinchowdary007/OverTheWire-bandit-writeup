@@ -1,0 +1,22 @@
+level13
+----------
+ssh bandit13@bandit.labs.overthewire.org -p2220
+
+level13 - level14
+-------------------
+
+ls,
+
+#ls shows us sshkey.private
+
+level14
+---------
+ssh -i sshkey.private bandit14@localhost
+
+yes
+
+#bandit14 will be the host now
+
+cat /etc/bandit_pass/bandit14
+
+key(level14)- 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
