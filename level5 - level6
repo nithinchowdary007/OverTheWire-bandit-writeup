@@ -1,1 +1,11 @@
+level5
+----------
+ssh bandit5@bandit.labs.overthewire.org -p2220
 
+level5 - level6
+----------------
+ls, cd, ls, find ./ -size 1033c, cat maybehere07/.file2
+
+key- DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+exit
