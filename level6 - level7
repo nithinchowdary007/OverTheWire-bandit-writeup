@@ -1,1 +1,11 @@
+level6
+---------
+ssh bandit6@bandit.labs.overthewire.org -p2220
 
+level6 - level7
+----------------
+ls, ls -al, find / -size 33c -user bandit7 -group bandit6, cat
+
+key-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+exit
