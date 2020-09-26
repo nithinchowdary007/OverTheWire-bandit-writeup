@@ -1,0 +1,12 @@
+level15
+---------
+ssh bandit15@bandit.labs.overthewire.org -p2220
+
+level15 - level16
+-------------------
+openssl s_client -connect localhost:30001
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+key- cluFn7wTiGryunymYOu4RcffSxQluehd
+
+exit
