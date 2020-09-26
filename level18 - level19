@@ -1,0 +1,14 @@
+level 18
+------------
+ssh bandit18@bandit.labs.overthewire.org -p2220
+
+#this does work becase bash file is kept edited which loses server immidiatly.so we use below comand to get content from readme file directly
+
+ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
+
+level18 - level19
+-------------------
+
+key- IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+
+exit
