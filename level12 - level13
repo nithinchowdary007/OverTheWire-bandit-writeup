@@ -1,0 +1,20 @@
+level12
+----------
+ssh bandit12@bandit.labs.overthewire.org -p2220
+
+level12 - level13 [**]
+-------------------
+ls, mkdir -v /tmp/nithin124/data.txt, cd /tmp/nithin124, file data.txt 
+
+#from here we uncompress files until we get ascii form file
+#we check form of file sing file comand
+
+gzip compressed data- zcat  data.txt > new1
+bzip2 compressed data- bzip2 -d new1
+POSIX tar archiv- tar -xvfnew1.out
+
+#file names maybe different but we  use these comands untill we get ASCII text file.
+
+key-8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+exit
