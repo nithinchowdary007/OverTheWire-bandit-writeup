@@ -1,1 +1,11 @@
+level7
+----------
+ssh bandit7@bandit.labs.overthewire.org -p2220
 
+level7 - level8
+----------------
+ls, cat, cat data.txt | -grep millionth
+
+key-cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+exit
